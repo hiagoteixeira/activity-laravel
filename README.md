@@ -4,8 +4,8 @@ The app runs into localhost:8000
 
 ## To run
 
-run: php artisan migrate --seed
-run: php artisan serve
+-   run: php artisan migrate --seed
+-   run: php artisan serve
 
 ## Info
 
